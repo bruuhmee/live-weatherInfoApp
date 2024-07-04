@@ -1,16 +1,1 @@
-# weather
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This Flutter app fetches and displays the weather forecast for London using the OpenWeatherMap API. It shows the current temperature, humidity, pressure, and wind speed, along with an icon representing the weather condition. The app also provides a horizontal scrollable view of the hourly weather forecast, displaying the temperature and weather icon for each hour. Users can refresh the weather data using a refresh button on the app bar.
